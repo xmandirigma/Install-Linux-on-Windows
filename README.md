@@ -74,7 +74,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 # Docker version
 docker --version
 ```
-***Optional: To install more packages you can check my recent [Linux guide](https://github.com/0xmoei/Linux_Node_Guide/blob/main/linux-config.md)***
+***Optional: To install more packages you can check my recent [Linux guide](https://github.com/xmandirigma/linux-config.md/blob/main/linux-config.md)***
 
 #
 
